@@ -17,7 +17,7 @@ export const stagesData: StageData[] = [
   {
     id: 1,
     title: 'Photo 1',
-    photoPath: '/photos/photo1.png',
+    photoPath: '/photos/photo1.jpg',
     questions: [
       {
         question: '人物を魅力的に撮る際、最も重要な視線の向きは?',
@@ -75,7 +75,7 @@ export const stagesData: StageData[] = [
   {
     id: 2,
     title: 'Photo 2',
-    photoPath: '/photos/photo2.png',
+    photoPath: '/photos/photo2.jpg',
     questions: [
       {
         question: '被写体との距離感で印象はどう変わる?',
@@ -133,7 +133,7 @@ export const stagesData: StageData[] = [
   {
     id: 3,
     title: 'Photo 3',
-    photoPath: '/photos/photo3.png',
+    photoPath: '/photos/photo3.jpg',
     questions: [
       {
         question: '手の配置で印象を変えるには?',
@@ -191,7 +191,7 @@ export const stagesData: StageData[] = [
   {
     id: 4,
     title: 'Photo 4',
-    photoPath: '/photos/photo4.png',
+    photoPath: '/photos/photo4.jpg',
     questions: [
       {
         question: 'ローアングルで撮影する効果は?',
@@ -249,7 +249,7 @@ export const stagesData: StageData[] = [
   {
     id: 5,
     title: 'Photo 5',
-    photoPath: '/photos/photo5.mp4',
+    photoPath: '/photos/photo5.jpg',
     questions: [
       {
         question: '動画撮影で動きを捉えるコツは?',
